@@ -110,7 +110,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Good starting point for a new Fable project.*
 
-* [Fable-Fableish](https://github.com/fable-Fableish/Fableish) - A simple Fable like framework to get started with
+* [Fable-Elmish](https://github.com/fable-elmish/elmish) - A simple Fable like framework to get started with
 
 **[:arrow_up: back to top](#table-of-contents)**
 
