@@ -63,6 +63,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Podcasts
 
 *Listen to podcasts about Fable*
@@ -70,6 +71,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * NONE :( as of now
 
 **[:arrow_up: back to top](#table-of-contents)**
+
 
 ## Libraries
 
@@ -89,6 +91,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Editor plugins
 
 *Tools to support Fable in code editors.*
@@ -98,6 +101,17 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
+## Templates
+
+*Fable templates to get up and running*
+
+
+* _Coming Soon_
+
+**[:arrow_up: back to top](#table-of-contents)**
+
+
 ## Package managers / Packages
 
 *Place to share Fable libraries.*
@@ -106,6 +120,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Boilerplates
 
 *Good starting point for a new Fable project.*
@@ -113,6 +128,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable-Elmish](https://github.com/fable-elmish/elmish) - A simple Fable like framework to get started with
 
 **[:arrow_up: back to top](#table-of-contents)**
+
 
 ## Misc
 
