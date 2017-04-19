@@ -105,6 +105,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ## Templates
 
 *Fable templates to get up and running*
+* [Elmish templates](https://github.com/fable-elmish/templates) - Templates to kick start a new Emish application.
 
 
 * _Coming Soon_
