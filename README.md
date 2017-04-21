@@ -50,6 +50,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Read the essentials. Check the official Fable blog: [fable.io/blog.html](http://fable.io/blog.html)*
 
+* [F# Interop with Javascript in Fable: The Complete Guide](https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f) - A comprehensive guide to Fable's interop capabilities
+
 * [Statically Typed Client-Server Communication with F#: Proof of Concept](https://medium.com/@zaid.naom/statically-typed-client-server-communication-with-f-proof-of-concept-7e52cff4a625#.upg5r1mah) - Joining Server and Client using Reflection.
 
 **[:arrow_up: back to top](#table-of-contents)**
