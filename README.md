@@ -13,15 +13,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Awesome Fable](#awesome-fable)
     - [Examples](#examples)
     - [Learn](#learn)
-    - [Articles](#articles)
-    - [Videos](#videos)
-    - [Podcasts](#podcasts)
+    - [Videos and podcasts](#videos-and-podcasts)
     - [Libraries](#libraries)
     - [Tools](#tools)
     - [Editor plugins](#editor-plugins)
-    - [Package managers](#package-managers)
-    - [Boilerplates](#boilerplates)
-    - [Misc](#misc)
+    - [Templates](#templates)
     - [Support](#support)
     - [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
@@ -32,7 +28,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Some good apps written in Fable.*
 
-* [Official list](http://fable.io/samples.html) - Examples from _basic_ to _big-project_ in official website.
+* [Fable website](http://fable.io/samples.html) - Basic examples in official website.
+* [Fable repo samples](https://github.com/fable-compiler/Fable/tree/master/samples) - More examples in Fable's repository.
+* [fable-elmish](https://github.com/fable-elmish) - Find web app samples in fable-elmish repository list.
+* [Fable + React Native](https://github.com/fable-compiler/fable-react_native-demo) - Full React Native app using Fable.
+* [Fable + Fuse](https://github.com/alfonsogarciacaro/MyFuseApp) - Simple F# cross-platform mobile app based on [Fuse Tools](https://www.fusetools.com/) quickstart tutorial.
+* [fable-electron](https://github.com/fable-compiler/fable-electron) - Learn how to write a cross-platorm desktop app in F# with Fable and Github Electron.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -42,22 +43,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Learn what this awesome thing is.*
 
 * [Official Docs](http://fable.io/docs.html) — General information and in-depth guide with examples.
-
-**[:arrow_up: back to top](#table-of-contents)**
-
-
-## Articles
-
-*Read the essentials. Check the official Fable blog: [fable.io/blog.html](http://fable.io/blog.html)*
-
+* [Fable blog](http://fable.io/blog.html) — Official Fable blog with new version announcements.
 * [F# Interop with Javascript in Fable: The Complete Guide](https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f) - A comprehensive guide to Fable's interop capabilities
-
 * [Statically Typed Client-Server Communication with F#: Proof of Concept](https://medium.com/@zaid.naom/statically-typed-client-server-communication-with-f-proof-of-concept-7e52cff4a625#.upg5r1mah) - Joining Server and Client using Reflection.
+* [Fable and Fable-Elmish Step-by-Step](https://medium.com/@zaid.naom/fable-and-fable-elmish-step-by-step-creating-a-calculator-fa2abe9594be) - Creating a Calculator using Fable-Elmish (**Fable 0.7**).
+* [Getting Started with Fable Elmish](http://inchingforward.com/2017/03/getting-started-with-fable-elmish/) - Learn Elmish by working up to the Counter sample app from scratch (**Fable 0.7**).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
 
-## Videos
+## Videos and podcasts
 
 *Watch great talks about Fable*
 
@@ -66,20 +61,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 **[:arrow_up: back to top](#table-of-contents)**
 
 
-## Podcasts
-
-*Listen to podcasts about Fable*
-
-* NONE :( as of now
-
-**[:arrow_up: back to top](#table-of-contents)**
-
-
 ## Libraries
 
 *Useful helpers to build apps.*
 
-* [core](https://github.com/Fable-lang/core) - Fable Core Libraries.
+* [fable-core](https://www.npmjs.com/package/fable-core) - Fable Core Library
+* [fable-powerpack](https://www.npmjs.com/package/fable-powerpack) - Utilities for Fable apps
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -88,7 +75,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Tools around Fable platform.*
 
-* [fable-powerpack](https://github.com/fable-compiler/fable-powerpack) - Utilities for Fable apps
+* [fable-loader](https://www.npmjs.com/package/fable-loader) - Fable loader for Webpack
+* [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
+* [ts2fable](https://github.com/fable-compiler/ts2fable) - Fable parser for Typescript declaration files
+* [Online REPL](http://fable.io/repl.html) - The Fable Online REPL
 
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -98,7 +88,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Tools to support Fable in code editors.*
 
-
 * [ionide](http://ionide.io/) - A wonderful Plugin for F# language.
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -107,37 +96,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ## Templates
 
 *Fable templates to get up and running*
+
 * [Elmish templates](https://github.com/fable-elmish/templates) - Templates to kick start a new Emish application.
+  Install them like `dotnet new -i "Fable.Template.Elmish.React::*"` and create a project with `dotnet new fable-elmish-react -n myproject`
+* [Fable Suave](https://github.com/fable-compiler/fable-suave-scaffold) - Scaffold to start an _isomorphic_ F# web app using Suave in the backend and Fable in the frontend, with canopy tests, best practices, etc.
 
-
-* _Coming Soon_
-
-**[:arrow_up: back to top](#table-of-contents)**
-
-
-## Package managers / Packages
-
-*Place to share Fable libraries.*
-
-* _Coming Soon_
-
-**[:arrow_up: back to top](#table-of-contents)**
-
-
-## Boilerplates
-
-*Good starting point for a new Fable project.*
-
-* [Fable-Elmish](https://github.com/fable-elmish/elmish) - A simple Fable like framework to get started with
-
-**[:arrow_up: back to top](#table-of-contents)**
-
-
-## Misc
-
-*Everything that you need to see.*
-
-* [Online REPL](http://fable.io/repl.html) - The Fable Online REPL
 
 **[:arrow_up: back to top](#table-of-contents)**
 
