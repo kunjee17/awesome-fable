@@ -48,6 +48,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Statically Typed Client-Server Communication with F#: Proof of Concept](https://medium.com/@zaid.naom/statically-typed-client-server-communication-with-f-proof-of-concept-7e52cff4a625#.upg5r1mah) - Joining Server and Client using Reflection.
 * [Fable and Fable-Elmish Step-by-Step](https://medium.com/@zaid.naom/fable-and-fable-elmish-step-by-step-creating-a-calculator-fa2abe9594be) - Creating a Calculator using Fable-Elmish (**Fable 0.7**).
 * [Getting Started with Fable Elmish](http://inchingforward.com/2017/03/getting-started-with-fable-elmish/) - Learn Elmish by working up to the Counter sample app from scratch (**Fable 0.7**).
+* [Early Fable Adventures – Building A Memory Tiles Game](http://www.prigrammer.com/?p=439) - Game of memory in F# using Fable DOM interactions and .Net events.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
