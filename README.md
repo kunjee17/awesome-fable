@@ -121,7 +121,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Production application that built with Fable*
 
-* [App](http://production-app)
+* [Ionide](http://ionide.io/)
 
 
 # Who to follow
