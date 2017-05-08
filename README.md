@@ -121,7 +121,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Production application that built with Fable*
 
-* [ionide][ionide]
+* [ionide][ionide] - VS Code and Atom extension for F# development
+* [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling
+* [Payoff charts](http://www.payoffcharts.com/) - Shows you the profit of strategy in the dependency on the underlying movements
 
 
 # Who to follow
