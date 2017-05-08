@@ -90,7 +90,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Tools to support Fable in code editors.*
 
-* [ionide](http://ionide.io/) - A wonderful Plugin for F# language.
+* [ionide][ionide] - A wonderful Plugin for F# language.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -121,7 +121,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Production application that built with Fable*
 
-* [Ionide](http://ionide.io/)
+* [ionide][ionide]
 
 
 # Who to follow
@@ -150,3 +150,6 @@ Awesome Fable is just a part of awesome thing, get more here:
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [@kunjee17](https://github.com/kunjee17) has waived all copyright and related or neighboring rights to this work.
+
+
+[ionide]: http://ionide.io/
