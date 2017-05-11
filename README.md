@@ -70,6 +70,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [fable-core](https://www.npmjs.com/package/fable-core) - Fable Core Library
 * [fable-powerpack](https://www.npmjs.com/package/fable-powerpack) - Utilities for Fable apps
+* [fable-aether](https://github.com/Prolucid/fable-aether)
+* [fable-mqtt](https://github.com/Prolucid/fable-mqtt)
+* [fable-signalr](https://github.com/Prolucid/fable-import-signalr)
+* [fable-websockets](https://github.com/Prolucid/fable-import-ws)
+* [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox)
+* [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs)
+* [fable-react-grid-system](https://github.com/Prolucid/fable-react-grid-system)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
