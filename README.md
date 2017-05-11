@@ -70,13 +70,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [fable-core](https://www.npmjs.com/package/fable-core) - Fable Core Library
 * [fable-powerpack](https://www.npmjs.com/package/fable-powerpack) - Utilities for Fable apps
-* [fable-aether](https://github.com/Prolucid/fable-aether)
-* [fable-mqtt](https://github.com/Prolucid/fable-mqtt)
-* [fable-signalr](https://github.com/Prolucid/fable-import-signalr)
-* [fable-websockets](https://github.com/Prolucid/fable-import-ws)
-* [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox)
-* [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs)
-* [fable-react-grid-system](https://github.com/Prolucid/fable-react-grid-system)
+* [fable-aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
+* [fable-mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
+* [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR
+* [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Fable bindings for WS
+* [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react
+* [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
+* [fable-react-grid-system](https://github.com/Prolucid/fable-react-grid-system) - Fable bindings for React Grid System
 
 **[:arrow_up: back to top](#table-of-contents)**
 
