@@ -78,6 +78,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Fable bindings for WS
 * [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react
 * [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
+* [fable-moment-range](https://github.com/DmitryBatalov/fable-import-moment-range) - Fable bindings for momentjs range
 * [fable-react-grid-system](https://github.com/Prolucid/fable-react-grid-system) - Fable bindings for React Grid System
 
 **[:arrow_up: back to top](#table-of-contents)**
