@@ -30,7 +30,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Some good apps written in Fable.*
 
 * [Fable website](http://fable.io/samples.html) - Basic examples in official website.
-* [Fable repo samples](https://github.com/fable-compiler/Fable/tree/master/samples) - More examples in Fable's repository.
+* [Fable repo samples](https://github.com/fable-compiler/samples) - Fable's samples repository.
 * [fable-elmish](https://github.com/fable-elmish) - Find web app samples in fable-elmish repository list.
 * [Fable + React Native](https://github.com/fable-compiler/fable-react_native-demo) - Full React Native app using Fable.
 * [Fable + Fuse](https://github.com/alfonsogarciacaro/MyFuseApp) - Simple F# cross-platform mobile app based on [Fuse Tools](https://www.fusetools.com/) quickstart tutorial.
@@ -48,7 +48,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Official Elmish Docs](https://fable-elmish.github.io/) - Official Elmish docs with nice samples and explanation of concepts
 * [Fable blog](http://fable.io/blog.html) — Official Fable blog with new version announcements.
 * [F# Interop with Javascript in Fable: The Complete Guide](https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f) - A comprehensive guide to Fable's interop capabilities
-* [Statically Typed Client-Server Communication with F#: Proof of Concept](https://medium.com/@zaid.naom/statically-typed-client-server-communication-with-f-proof-of-concept-7e52cff4a625#.upg5r1mah) - Joining Server and Client using Reflection.
+* [Introducing Fable.Remoting: Automated Type-Safe Client-Server Communication for Fable Apps](https://medium.com/@zaid.naom/introducing-fable-remoting-automated-type-safe-client-server-communication-for-fable-apps-e567454d594c)
+* [Statically Typed Client-Server Communication with F#: Proof of Concept](https://medium.com/@zaid.naom/statically-typed-client-server-communication-with-f-proof-of-concept-7e52cff4a625#.upg5r1mah) - Joining F# Server and Client (outdated).
 * [Fable and Fable-Elmish Step-by-Step](https://medium.com/@zaid.naom/fable-and-fable-elmish-step-by-step-creating-a-calculator-fa2abe9594be) - Creating a Calculator using Fable-Elmish (**Fable 0.7**).
 * [Getting Started with Fable Elmish](http://inchingforward.com/2017/03/getting-started-with-fable-elmish/) - Learn Elmish by working up to the Counter sample app from scratch (**Fable 0.7**).
 * [Early Fable Adventures – Building A Memory Tiles Game](http://www.prigrammer.com/?p=439) - Game of memory in F# using Fable DOM interactions and .Net events.
@@ -70,10 +71,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Useful helpers to build apps.*
 
-* [fable-core](https://www.npmjs.com/package/fable-core) - Fable Core Library
-* [fable-powerpack](https://www.npmjs.com/package/fable-powerpack) - Utilities for Fable apps
-* [fable-aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
-* [fable-mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
+* [Elmish](https://github.com/fable-elmish/elmish) - Elm-like abstractions for F# apps 
+* [Fable.PowerPack](https://github.com/fable-compiler/fable-powerpack) - Utilities for Fable apps
+* [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting) - Typed Client-Server communication for Fable and Suave
+* [Fable.Aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
+* [Fable.Mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
+* [Fable.Jest](https://github.com/jgrund/fable-jest) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
+* [Fable.Ava](https://github.com/YoloDev/Fable.Ava) - Testing Fable apps with [Ava](https://github.com/avajs/ava)
 * [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR
 * [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Fable bindings for WS
 * [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react
