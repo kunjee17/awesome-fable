@@ -47,6 +47,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Official Docs](http://fable.io/docs.html) — General information and in-depth guide with examples.
 * [Official Elmish Docs](https://fable-elmish.github.io/) - Official Elmish docs with nice samples and explanation of concepts
 * [Fable blog](http://fable.io/blog.html) — Official Fable blog with new version announcements.
+* [Minimalistic Live Testing Fable Apps With QUnit](https://medium.com/@zaid.naom/minimalistic-live-testing-fable-apps-with-qunit-b9d9f2f64725)
 * [F# Interop with Javascript in Fable: The Complete Guide](https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f) - A comprehensive guide to Fable's interop capabilities
 * [Introducing Fable.Remoting: Automated Type-Safe Client-Server Communication for Fable Apps](https://medium.com/@zaid.naom/introducing-fable-remoting-automated-type-safe-client-server-communication-for-fable-apps-e567454d594c)
 * [Statically Typed Client-Server Communication with F#: Proof of Concept](https://medium.com/@zaid.naom/statically-typed-client-server-communication-with-f-proof-of-concept-7e52cff4a625#.upg5r1mah) - Joining F# Server and Client (outdated).
