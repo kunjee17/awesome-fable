@@ -57,7 +57,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fablelous Enterprise Tic-Tac-Toe](https://martinand.net/2017/05/10/fablelous-enterprise-tic-tac-toe/) - Web-based tic-tac-toe game written in F# and transpiled to JavaScript using Fable.
 * [Fable from Scratch Series](https://medium.com/fable-compiler/fable-io-from-scratch-part-1-7ec7938c5026) - Bootstrap a Fable application from an empty directory to learn more about the stack.
 * [Creating Visual Planetary Systems using Fable and F#](https://medium.com/@mukund.sharma92/creating-visual-planetary-systems-using-fable-and-f-de23415ca6f7)
-
+* [Two Tetromino Tetris with Fable and F#](http://www.prigrammer.com/?p=489) - Implementation of a version of Tetris using Fable with the JS Canvas API and JS interval and .Net events for the game clock.
 **[:arrow_up: back to top](#table-of-contents)**
 
 
