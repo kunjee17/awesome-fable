@@ -87,6 +87,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
 * [fable-moment-range](https://github.com/DmitryBatalov/fable-import-moment-range) - Fable bindings for momentjs range
 * [fable-react-grid-system](https://github.com/Prolucid/fable-react-grid-system) - Fable bindings for React Grid System
+* [Fulma](https://mangelmaxime.github.io/Fulma/#fulma) - Fable-React like DSL for Bulma
+* [Fulma.Extensions](https://mangelmaxime.github.io/Fulma/#fulma-extensions) - Fable-React like DSL for Bulma extensions
+* [Fulma.Elmish](https://github.com/MangelMaxime/Fulma/#fulma-elmish) - Ready to use *elmish components*
 
 **[:arrow_up: back to top](#table-of-contents)**
 
