@@ -44,9 +44,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Learn what this awesome thing is.*
 
-* [Official Docs](http://fable.io/docs.html) — General information and in-depth guide with examples.
+* [Official Docs](http://fable.io/docs) — General information and in-depth guide with examples.
 * [Official Elmish Docs](https://fable-elmish.github.io/) - Official Elmish docs with nice samples and explanation of concepts
-* [Fable blog](http://fable.io/blog.html) — Official Fable blog with new version announcements.
+<!--* [Fable blog](http://fable.io/blog.html) — Official Fable blog with new version announcements.-->
 * [Minimalistic Live Testing Fable Apps With QUnit](https://medium.com/@zaid.naom/minimalistic-live-testing-fable-apps-with-qunit-b9d9f2f64725)
 * [F# Interop with Javascript in Fable: The Complete Guide](https://medium.com/@zaid.naom/f-interop-with-javascript-in-fable-the-complete-guide-ccc5b896a59f) - A comprehensive guide to Fable's interop capabilities
 * [Introducing Fable.Remoting: Automated Type-Safe Client-Server Communication for Fable Apps](https://medium.com/@zaid.naom/introducing-fable-remoting-automated-type-safe-client-server-communication-for-fable-apps-e567454d594c)
@@ -101,7 +101,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable-loader](https://www.npmjs.com/package/fable-loader) - Fable loader for Webpack
 * [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
 * [ts2fable](https://github.com/fable-compiler/ts2fable) - Fable parser for Typescript declaration files
-* [Online REPL](http://fable.io/repl.html) - The Fable Online REPL
+* [Online REPL](http://fable.io/repl) - The Fable Online REPL
 
 
 **[:arrow_up: back to top](#table-of-contents)**
