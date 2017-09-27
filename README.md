@@ -58,6 +58,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable from Scratch Series](https://medium.com/fable-compiler/fable-io-from-scratch-part-1-7ec7938c5026) - Bootstrap a Fable application from an empty directory to learn more about the stack.
 * [Creating Visual Planetary Systems using Fable and F#](https://medium.com/@mukund.sharma92/creating-visual-planetary-systems-using-fable-and-f-de23415ca6f7)
 * [Two Tetromino Tetris with Fable and F#](http://www.prigrammer.com/?p=489) - Implementation of a version of Tetris using Fable with the JS Canvas API and JS interval and .Net events for the game clock.
+* [FableConf 2017, Elmish & Canvas based presentation](https://github.com/whitetigle/fableconf2017) - Learn how to create gorgeous Perlin based canvas animations and texts with Elmish and JS Events through a very simple example. 
+
 **[:arrow_up: back to top](#table-of-contents)**
 
 
@@ -146,7 +148,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [ionide][ionide] - VS Code and Atom extension for F# development
 * [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling
 * [Payoff charts](http://www.payoffcharts.com/) - Shows you the profit of strategy in the dependency on the underlying movements
-
+* [Casque Noir](https://www.casquenoir.com) - Web documentary about Haïti environmental issues 
 
 # Who to follow
 
