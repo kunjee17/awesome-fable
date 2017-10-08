@@ -36,7 +36,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable + Fuse](https://github.com/alfonsogarciacaro/MyFuseApp) - Simple F# cross-platform mobile app based on [Fuse Tools](https://www.fusetools.com/) quickstart tutorial.
 * [fable-electron](https://github.com/fable-compiler/fable-electron) - Learn how to write a cross-platorm desktop app in F# with Fable and Github Electron.
 * [fable vscode](https://github.com/acormier/vscode-extension-fable-simple) - Basic Visual Studio Code 'Hello Word!' extension.
-
+* [SAFE Bookstore](https://github.com/SAFE-Stack/SAFE-BookStore) - Full stack SAFE example with support for deploying in a Docker container.
 **[:arrow_up: back to top](#table-of-contents)**
 
 
@@ -58,7 +58,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable from Scratch Series](https://medium.com/fable-compiler/fable-io-from-scratch-part-1-7ec7938c5026) - Bootstrap a Fable application from an empty directory to learn more about the stack.
 * [Creating Visual Planetary Systems using Fable and F#](https://medium.com/@mukund.sharma92/creating-visual-planetary-systems-using-fable-and-f-de23415ca6f7)
 * [Two Tetromino Tetris with Fable and F#](http://www.prigrammer.com/?p=489) - Implementation of a version of Tetris using Fable with the JS Canvas API and JS interval and .Net events for the game clock.
-* [FableConf 2017, Elmish & Canvas based presentation](https://github.com/whitetigle/fableconf2017) - Learn how to create gorgeous Perlin based canvas animations and texts with Elmish and JS Events through a very simple example. 
+* [FableConf 2017, Elmish & Canvas based presentation](https://github.com/whitetigle/fableconf2017) - Learn how to create gorgeous Perlin based canvas animations and texts with Elmish and JS Events through a very simple example.
+* [Learning about the F# SAFE stack - Suave.io, Azure, Fable, Elmish](https://www.hanselman.com/blog/LearningAboutTheFSAFEStackSuaveioAzureFableElmish.aspx) - High level introduction to the SAFE stack by Scott Hanselman./
 
 **[:arrow_up: back to top](#table-of-contents)**
 
