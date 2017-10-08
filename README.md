@@ -167,6 +167,7 @@ Awesome Fable is just a part of awesome thing, get more here:
 
 - <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a> by [**@sindresorhus**](https://github.com/sindresorhus)
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)
+- <a href="https://github.com/fsprojects/awesome-fsharp" target="_blank">awesome-fsharp</a> by [**@fsprojects**](https://github.com/fsprojects)
 
 
 **[:arrow_up: back to top](#table-of-contents)**
