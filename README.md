@@ -42,7 +42,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 **[:arrow_up: back to top](#table-of-contents)**
 
 
-
 ## Learn
 
 *Learn what this awesome thing is.*
