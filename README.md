@@ -38,6 +38,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable vscode](https://github.com/acormier/vscode-extension-fable-simple) - Basic Visual Studio Code 'Hello Word!' extension.
 * [SAFE Bookstore](https://github.com/SAFE-Stack/SAFE-BookStore) - Full stack SAFE example with support for deploying in a Docker container.
 * [SAFE Nightwatch](https://github.com/SAFE-Stack/SAFE-Nightwatch) - A Demo application for React Native development in F# using Fable and the SAFE stack.
+* [device-scanner](https://github.com/intel-hpdd/device-scanner) - A Production Fable -> Node.js daemon for monitoring Linux storage devices. Has full testing + code coverage.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
