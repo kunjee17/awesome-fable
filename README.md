@@ -96,6 +96,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fulma](https://mangelmaxime.github.io/Fulma/#fulma) - Fable-React like DSL for Bulma
 * [Fulma.Extensions](https://mangelmaxime.github.io/Fulma/#fulma-extensions) - Fable-React like DSL for Bulma extensions
 * [Fulma.Elmish](https://github.com/MangelMaxime/Fulma/#fulma-elmish) - Ready to use *elmish components*
+* [fable-validation](https://github.com/zaaack/fable-validation) - A isomorphic validation library for F#/Fable
 
 **[:arrow_up: back to top](#table-of-contents)**
 
