@@ -132,6 +132,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable Suave](https://github.com/fable-compiler/fable-suave-scaffold) - Scaffold to start an _isomorphic_ F# web app using Suave in the backend and Fable in the frontend, with canopy tests, best practices, etc.
 * [GameDevelopment Scaffold](https://github.com/realvictorprm/fable-game-scaffold) - Template to kick start a new dummy game. Based on the Fable Suave scaffold for Client <> Server support 
 * [Fable.Library.Template](https://github.com/TheAngryByrd/Fable.Library.Template) - F# Template for create and publishing Fable Libraries
+* [SAFE template](https://github.com/SAFE-Stack/SAFE-template) - Dotnet CLI template to bootstrap [SAFE](https://safe-stack.github.io/) projects, including [Suave.IO](https://suave.io/) on server side
 
 **[:arrow_up: back to top](#table-of-contents)**
 
