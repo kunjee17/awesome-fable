@@ -39,6 +39,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [SAFE Bookstore](https://github.com/SAFE-Stack/SAFE-BookStore) - Full stack SAFE example with support for deploying in a Docker container.
 * [SAFE Nightwatch](https://github.com/SAFE-Stack/SAFE-Nightwatch) - A Demo application for React Native development in F# using Fable and the SAFE stack.
 * [device-scanner](https://github.com/intel-hpdd/device-scanner) - A Production Fable -> Node.js daemon for monitoring Linux storage devices. Has full testing + code coverage.
+* [Volca FM editor](https://magicmonty.github.io/volca-fm-editor) - A Patch editor for the Korg Volca FM made with Fable-Elmish-React which uses Web MIDI
+* [fable-webmidi-sample](https://github.com/magicmonty/fable-webmidi-sample) - A simple sample for making a Web MIDI application with fable
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -63,6 +65,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Two Tetromino Tetris with Fable and F#](http://www.prigrammer.com/?p=489) - Implementation of a version of Tetris using Fable with the JS Canvas API and JS interval and .Net events for the game clock.
 * [FableConf 2017, Elmish & Canvas based presentation](https://github.com/whitetigle/fableconf2017) - Learn how to create gorgeous Perlin based canvas animations and texts with Elmish and JS Events through a very simple example.
 * [Learning about the F# SAFE stack - Suave.io, Azure, Fable, Elmish](https://www.hanselman.com/blog/LearningAboutTheFSAFEStackSuaveioAzureFableElmish.aspx) - High level introduction to the SAFE stack by Scott Hanselman./
+* [A fable of Web MIDI](http://blog.pagansoft.de/articles/a-fable-of-webmidi) - An article about how to create Fable bindings for Web MIDI
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -97,6 +100,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fulma.Extensions](https://mangelmaxime.github.io/Fulma/#fulma-extensions) - Fable-React like DSL for Bulma extensions
 * [Fulma.Elmish](https://github.com/MangelMaxime/Fulma/#fulma-elmish) - Ready to use *elmish components*
 * [fable-validation](https://github.com/zaaack/fable-validation) - A isomorphic validation library for F#/Fable
+* [Fable.Import.WebMIDI](https://github.com/fable-import-webmidi) - Web MIDI bindings for Fable
 
 **[:arrow_up: back to top](#table-of-contents)**
 
