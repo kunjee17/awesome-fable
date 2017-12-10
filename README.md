@@ -65,7 +65,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Two Tetromino Tetris with Fable and F#](http://www.prigrammer.com/?p=489) - Implementation of a version of Tetris using Fable with the JS Canvas API and JS interval and .Net events for the game clock.
 * [FableConf 2017, Elmish & Canvas based presentation](https://github.com/whitetigle/fableconf2017) - Learn how to create gorgeous Perlin based canvas animations and texts with Elmish and JS Events through a very simple example.
 * [Learning about the F# SAFE stack - Suave.io, Azure, Fable, Elmish](https://www.hanselman.com/blog/LearningAboutTheFSAFEStackSuaveioAzureFableElmish.aspx) - High level introduction to the SAFE stack by Scott Hanselman./
-* [A fable of Web MIDI](http://blog.pagansoft.de/a-fable-of-webmidi) - An article about how to create Fable bindings for Web MIDI
+* [A fable of Web MIDI](http://blog.pagansoft.de/articles/a-fable-of-webmidi) - An article about how to create Fable bindings for Web MIDI
 
 **[:arrow_up: back to top](#table-of-contents)**
 
