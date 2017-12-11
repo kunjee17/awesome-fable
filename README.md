@@ -101,6 +101,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fulma.Elmish](https://github.com/MangelMaxime/Fulma/#fulma-elmish) - Ready to use *elmish components*
 * [fable-validation](https://github.com/zaaack/fable-validation) - A isomorphic validation library for F#/Fable
 * [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
+* [Thot.Json](https://mangelmaxime.github.io/Thot/) - Json encoder/decoder library inspire by Elm
 
 **[:arrow_up: back to top](#table-of-contents)**
 
