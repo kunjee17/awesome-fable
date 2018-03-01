@@ -77,6 +77,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Watch great talks about Fable*
 
 * [Conquer the JavaScript Ecosystem with F# and Fable](https://skillsmatter.com/skillscasts/9732-conquer-the-javascript-ecosystem-with-f-sharp-and-fable-audience-level-beginner) - A gentle introduction of Fable from creator _Alfonso Garcia-Caro_
+* [Official Fable youtube channel](https://www.youtube.com/channel/UC6m70Jyr65ogDySbK7aMmzg)
+    * [FableConf 2017 videos playlist](https://www.youtube.com/watch?v=ssKX7T3lNvw&list=PL4vOF1DmOhsl8mXF8NkR_rgkVJP2nR4Mh) - All FableConf 2017 videos
+    * [Fable conference talks videos playlist](https://www.youtube.com/watch?v=iP-50fj06Eo&list=PL4vOF1DmOhsnIq6db_j3jv29HoatR4G-Q) - Other Fable talks on Youtube
 
 **[:arrow_up: back to top](#table-of-contents)**
 
