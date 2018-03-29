@@ -76,10 +76,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Watch great talks about Fable*
 
-* [Conquer the JavaScript Ecosystem with F# and Fable](https://skillsmatter.com/skillscasts/9732-conquer-the-javascript-ecosystem-with-f-sharp-and-fable-audience-level-beginner) - A gentle introduction of Fable from creator _Alfonso Garcia-Caro_
 * [Official Fable youtube channel](https://www.youtube.com/channel/UC6m70Jyr65ogDySbK7aMmzg)
     * [FableConf 2017 videos playlist](https://www.youtube.com/watch?v=ssKX7T3lNvw&list=PL4vOF1DmOhsl8mXF8NkR_rgkVJP2nR4Mh) - All FableConf 2017 videos
     * [Fable conference talks videos playlist](https://www.youtube.com/watch?v=iP-50fj06Eo&list=PL4vOF1DmOhsnIq6db_j3jv29HoatR4G-Q) - Other Fable talks on Youtube
+* [Conquer the JavaScript Ecosystem with F# and Fable](https://skillsmatter.com/skillscasts/9732-conquer-the-javascript-ecosystem-with-f-sharp-and-fable-audience-level-beginner) - A gentle introduction of Fable from creator _Alfonso Garcia-Caro_
+* [WTF# is Fable?](https://wtfsharp.net/wtf-is-fable) - An overview of the Fable ecosystem on the [WTF#](https://wtfsharp.net) podcast.
+* [From F# to JavaScript and beyond with Fable](https://hanselminutes.com/616/from-f-to-javascript-and-beyond-with-fable-and-alfonso-garcia-caro) - with Alfonso Garcia-Caro on Scott Hanselman's "[Hanselminutes](https://hanselminutes.com)" podcast
+* [F# and the SAFE stack](https://hanselminutes.com/624/f-and-the-functional-safe-stack-with-krzysztof-cielak) - with Krzysztof Cieślak on Scott Hanselman's "[Hanselminutes](https://hanselminutes.com)" podcast
 
 **[:arrow_up: back to top](#table-of-contents)**
 
