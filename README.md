@@ -175,6 +175,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Payoff charts](http://www.payoffcharts.com/) - Shows you the profit of strategy in the dependency on the underlying movements
 * [Casque Noir](https://www.casquenoir.com) - Web documentary about Haïti environmental issues 
 * [Fable-of-the-Day](https://github.com/rommsen/fable-of-the-day) - Catch of the day by @wesbos ported to Fable
+* [Czech Republic 2018 Election Analytics](http://showme.median.cz/volby-2018/)
 
 # Who to follow
 
