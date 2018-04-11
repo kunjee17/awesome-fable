@@ -98,6 +98,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
 * [Fable.Jest](https://github.com/jgrund/fable-jest) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
 * [Fable.Ava](https://github.com/YoloDev/Fable.Ava) - Testing Fable apps with [Ava](https://github.com/avajs/ava)
+* [Elmish.Toastr](https://github.com/Zaid-Ajaj/Elmish.Toastr) - [Toastr](https://github.com/CodeSeven/toastr) (notification library) integration with Fable, implemented as Elmish commands
+* [Fable.React.Flatpickr](https://zaid-ajaj.github.io/Fable.React.Flatpickr/) - Fable binding for [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) (datetime picker component) that is ready to use within Elmish applications
 * [Fable.Parsimmon](https://github.com/Zaid-Ajaj/Fable.Parsimmon) - Fable bindings for the [Parsimmon](https://github.com/jneen/parsimmon) parser combinator library. 
 * [Fable.SimpleJson](https://github.com/Zaid-Ajaj/Fable.SimpleJson) A library for easily working with JSON in Fable projects.
 * [Fable.SimpleXml](https://github.com/Zaid-Ajaj/Fable.SimpleXml) A library for easily working with XML in Fable projects.
@@ -125,6 +127,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
 * [ts2fable](https://github.com/fable-compiler/ts2fable) - Fable parser for Typescript declaration files
 * [Online REPL](http://fable.io/repl) - The Fable Online REPL
+* [HTML to Elmish](https://mangelmaxime.github.io/html-to-elmish/) - Convert HTML snippets into code ready to be used in Elmish apps
 
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -171,6 +174,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling
 * [Payoff charts](http://www.payoffcharts.com/) - Shows you the profit of strategy in the dependency on the underlying movements
 * [Casque Noir](https://www.casquenoir.com) - Web documentary about Haïti environmental issues 
+* [Fable-of-the-Day](https://github.com/rommsen/fable-of-the-day) - Catch of the day by @wesbos ported to Fable
 
 # Who to follow
 
