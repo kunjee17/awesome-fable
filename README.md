@@ -53,6 +53,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Learn what this awesome thing is.*
 
 * [Official Docs](http://fable.io/docs) — General information and in-depth guide with examples.
+* [Official SAFE-Stack Docs](https://safe-stack.github.io/docs/) - Official SAFE-Stack docs with nice samples and getting started tutorials.
 * [Official Elmish Docs](https://fable-elmish.github.io/) - Official Elmish docs with nice samples and explanation of concepts
 <!--* [Fable blog]() — Official Fable blog with new version announcements.-->
 * [Minimalistic Live Testing Fable Apps With QUnit](https://medium.com/@zaid.naom/minimalistic-live-testing-fable-apps-with-qunit-b9d9f2f64725)
