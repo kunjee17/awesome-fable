@@ -39,6 +39,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [SAFE Bookstore](https://github.com/SAFE-Stack/SAFE-BookStore) - Full stack SAFE example with support for deploying in a Docker container.
 * [SAFE-Chat](https://github.com/SAFE-Stack/SAFE-Chat) - IRC-style chat demo featuring full-stack F#, Akka.Streams, Akkling, Fable, Elmish, Websockets and .NET Core.
 * [SAFE Nightwatch](https://github.com/SAFE-Stack/SAFE-Nightwatch) - A Demo application for React Native development in F# using Fable and the SAFE stack.
+*[SAFE Confplanner](https://github.com/SAFE-Stack/SAFE-ConfPlanner) - A Demo application showcasing shared behaviour of CQRS/Event-Sourcing on the backend and the Elm architecture on the frontend. Both systems communication with push-notifications via websockets.
 * [SAFE TodoList](https://github.com/Zaid-Ajaj/SAFE-TodoList) - The simplest Todo app: a client-server application written entirely in F# using Elmish on the client, Suave on the server and Fable.Remoting for type-safe communication between the two.
 * [device-scanner](https://github.com/intel-hpdd/device-scanner) - A Production Fable -> Node.js daemon for monitoring Linux storage devices. Has full testing + code coverage.
 * [Volca FM editor](https://magicmonty.github.io/volca-fm-editor) - A Patch editor for the Korg Volca FM made with Fable-Elmish-React which uses Web MIDI
@@ -52,6 +53,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Learn what this awesome thing is.*
 
 * [Official Docs](http://fable.io/docs) — General information and in-depth guide with examples.
+* [Official SAFE-Stack Docs](https://safe-stack.github.io/docs/) - Official SAFE-Stack docs with nice samples and getting started tutorials.
 * [Official Elmish Docs](https://fable-elmish.github.io/) - Official Elmish docs with nice samples and explanation of concepts
 <!--* [Fable blog]() — Official Fable blog with new version announcements.-->
 * [Minimalistic Live Testing Fable Apps With QUnit](https://medium.com/@zaid.naom/minimalistic-live-testing-fable-apps-with-qunit-b9d9f2f64725)
