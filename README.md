@@ -71,6 +71,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Learning about the F# SAFE stack - Suave.io, Azure, Fable, Elmish](https://www.hanselman.com/blog/LearningAboutTheFSAFEStackSuaveioAzureFableElmish.aspx) - High level introduction to the SAFE stack by Scott Hanselman./
 * [A fable of Web MIDI](http://blog.pagansoft.de/articles/a-fable-of-webmidi) - An article about how to create Fable bindings for Web MIDI
 * [Opinionated Fable - Architecture & Performance](http://kunjan.in/2018/03/opinionated-fable-architecture-and-performance/) - Architecture & Performance tips and tricks for Fable 1.x
+* [Fable in React land](https://blog.vbfox.net/2018/02/06/fable-react-1-react-in-fable-land.html) - Fable for React: creating components and optimizing them
 
 **[:arrow_up: back to top](#table-of-contents)**
 
