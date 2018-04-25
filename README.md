@@ -156,6 +156,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [GameDevelopment Scaffold](https://github.com/realvictorprm/fable-game-scaffold) - Template to kick start a new dummy game. Based on the Fable Suave scaffold for Client <> Server support 
 * [Fable.Library.Template](https://github.com/TheAngryByrd/Fable.Library.Template) - F# Template for create and publishing Fable Libraries
 * [SAFE template](https://github.com/SAFE-Stack/SAFE-template) - Dotnet CLI template to bootstrap [SAFE](https://safe-stack.github.io/) projects, including [Suave.IO](https://suave.io/) on server side
+* [Fulma minimal template](https://mangelmaxime.github.io/Fulma/#template) - The quickest way to get started an Elmish + Fulma application from scratch
 
 **[:arrow_up: back to top](#table-of-contents)**
 
