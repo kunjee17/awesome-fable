@@ -107,6 +107,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Parsimmon](https://github.com/Zaid-Ajaj/Fable.Parsimmon) - Fable bindings for the [Parsimmon](https://github.com/jneen/parsimmon) parser combinator library. 
 * [Fable.SimpleJson](https://github.com/Zaid-Ajaj/Fable.SimpleJson) A library for easily working with JSON in Fable projects.
 * [Fable.SimpleXml](https://github.com/Zaid-Ajaj/Fable.SimpleXml) A library for easily working with XML in Fable projects.
+* [Fable.DateFunctions](https://github.com/Zaid-Ajaj/Fable.DateFunctions) - binding for the [date-fns](https://date-fns.org/) library, implemented as 120+ extension methods for DateTime. 
 * [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR
 * [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Fable bindings for WS
 * [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react
@@ -118,7 +119,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fulma.Elmish](https://github.com/MangelMaxime/Fulma/#fulma-elmish) - Ready to use *elmish components*
 * [fable-validation](https://github.com/zaaack/fable-validation) - A isomorphic validation library for F#/Fable
 * [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
-* [Thot.Json](https://mangelmaxime.github.io/Thot/) - Json encoder/decoder library inspire by Elm
+* [Thoth.Json](https://mangelmaxime.github.io/Thoth/) - Json encoder/decoder library inspire by Elm
 
 **[:arrow_up: back to top](#table-of-contents)**
 
