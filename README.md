@@ -44,7 +44,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [device-scanner](https://github.com/intel-hpdd/device-scanner) - A Production Fable -> Node.js daemon for monitoring Linux storage devices. Has full testing + code coverage.
 * [Volca FM editor](https://magicmonty.github.io/volca-fm-editor) - A Patch editor for the Korg Volca FM made with Fable-Elmish-React which uses Web MIDI
 * [fable-webmidi-sample](https://github.com/magicmonty/fable-webmidi-sample) - A simple sample for making a Web MIDI application with fable
-* [fable-uploadware](https://whitetigle.github.io/fable-uploadcare/) - A simple React sample to use [UploadCare](https://uploadcare.com) widget
+* [fable-uploadcare](https://whitetigle.github.io/fable-uploadcare/) - A simple React sample to use [UploadCare](https://uploadcare.com) widget
 
 **[:arrow_up: back to top](#table-of-contents)**
 
