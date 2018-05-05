@@ -39,7 +39,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [SAFE Bookstore](https://github.com/SAFE-Stack/SAFE-BookStore) - Full stack SAFE example with support for deploying in a Docker container.
 * [SAFE-Chat](https://github.com/SAFE-Stack/SAFE-Chat) - IRC-style chat demo featuring full-stack F#, Akka.Streams, Akkling, Fable, Elmish, Websockets and .NET Core.
 * [SAFE Nightwatch](https://github.com/SAFE-Stack/SAFE-Nightwatch) - A Demo application for React Native development in F# using Fable and the SAFE stack.
-*[SAFE Confplanner](https://github.com/SAFE-Stack/SAFE-ConfPlanner) - A Demo application showcasing shared behaviour of CQRS/Event-Sourcing on the backend and the Elm architecture on the frontend. Both systems communication with push-notifications via websockets.
+* [SAFE Confplanner](https://github.com/SAFE-Stack/SAFE-ConfPlanner) - A Demo application showcasing shared behaviour of CQRS/Event-Sourcing on the backend and the Elm architecture on the frontend. Both systems communication with push-notifications via websockets.
 * [SAFE TodoList](https://github.com/Zaid-Ajaj/SAFE-TodoList) - The simplest Todo app: a client-server application written entirely in F# using Elmish on the client, Suave on the server and Fable.Remoting for type-safe communication between the two.
 * [device-scanner](https://github.com/intel-hpdd/device-scanner) - A Production Fable -> Node.js daemon for monitoring Linux storage devices. Has full testing + code coverage.
 * [Volca FM editor](https://magicmonty.github.io/volca-fm-editor) - A Patch editor for the Korg Volca FM made with Fable-Elmish-React which uses Web MIDI
@@ -69,7 +69,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Creating Visual Planetary Systems using Fable and F#](https://medium.com/@mukund.sharma92/creating-visual-planetary-systems-using-fable-and-f-de23415ca6f7)
 * [Two Tetromino Tetris with Fable and F#](http://www.prigrammer.com/?p=489) - Implementation of a version of Tetris using Fable with the JS Canvas API and JS interval and .Net events for the game clock.
 * [FableConf 2017, Elmish & Canvas based presentation](https://github.com/whitetigle/fableconf2017) - Learn how to create gorgeous Perlin based canvas animations and texts with Elmish and JS Events through a very simple example.
-* [Learning about the F# SAFE stack - Suave.io, Azure, Fable, Elmish](https://www.hanselman.com/blog/LearningAboutTheFSAFEStackSuaveioAzureFableElmish.aspx) - High level introduction to the SAFE stack by Scott Hanselman./
+* [Learning about the F# SAFE stack - Suave.io, Azure, Fable, Elmish](https://www.hanselman.com/blog/LearningAboutTheFSAFEStackSuaveioAzureFableElmish.aspx) - High level introduction to the SAFE stack by Scott Hanselman.
 * [A fable of Web MIDI](http://blog.pagansoft.de/articles/a-fable-of-webmidi) - An article about how to create Fable bindings for Web MIDI
 * [Opinionated Fable - Architecture & Performance](http://kunjan.in/2018/03/opinionated-fable-architecture-and-performance/) - Architecture & Performance tips and tricks for Fable 1.x
 * [Fable in React land](https://blog.vbfox.net/2018/02/06/fable-react-1-react-in-fable-land.html) - Fable for React: creating components and optimizing them
