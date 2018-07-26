@@ -96,7 +96,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Useful helpers to build apps.*
 
-* [Elmish](https://elmish.github.io/elmish/) - Elm-like abstractions for F# apps 
+* [Elmish](https://elmish.github.io/elmish/) - Elm-like abstractions for F# apps
+* [Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 * [Fable.PowerPack](https://github.com/fable-compiler/fable-powerpack) - Utilities for Fable apps
 * [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting) - Typed Client-Server communication for Fable and Suave
 * [Fable.Aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
