@@ -29,7 +29,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Some good apps written in Fable.*
 
-* [Fable website](http://fable.io/samples.html) - Basic examples in official website.
+* [Fable website](http://fable.io/samples-browser) - Basic examples in official website.
 * [Fable repo samples](https://github.com/fable-compiler/samples) - Fable's samples repository.
 * [fable-elmish](https://github.com/fable-elmish) - Find web app samples in fable-elmish repository list.
 * [Fable + React Native](https://github.com/fable-compiler/fable-react_native-demo) - Full React Native app using Fable.
@@ -182,7 +182,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [ionide][ionide] - VS Code and Atom extension for F# development
 * [The Gamma](https://thegamma.net/) - Tools for open data-driven storytelling
 * [Payoff charts](http://www.payoffcharts.com/) - Shows you the profit of strategy in the dependency on the underlying movements
-* [Casque Noir](https://www.casquenoir.com) - Web documentary about Haïti environmental issues 
+* [Casque Noir](http://www.casquenoir.com) - Web documentary about Haïti environmental issues 
 * [Fable-of-the-Day](https://github.com/rommsen/fable-of-the-day) - Catch of the day by @wesbos ported to Fable
 * [Czech Republic 2018 Election Analytics](http://showme.median.cz/volby-2018/)
 
