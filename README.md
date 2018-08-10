@@ -73,6 +73,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [A fable of Web MIDI](http://blog.pagansoft.de/articles/a-fable-of-webmidi) - An article about how to create Fable bindings for Web MIDI
 * [Opinionated Fable - Architecture & Performance](http://kunjan.in/2018/03/opinionated-fable-architecture-and-performance/) - Architecture & Performance tips and tricks for Fable 1.x
 * [Fable in React land](https://blog.vbfox.net/2018/02/06/fable-react-1-react-in-fable-land.html) - Fable for React: creating components and optimizing them
+* [Create WebComponents with Fable + Elmish + React](http://hardt.software/building-a-webcomponent-with-fable-elmish-react/) - How to create WebComponents with Fable + Elmish + React
 
 **[:arrow_up: back to top](#table-of-contents)**
 
