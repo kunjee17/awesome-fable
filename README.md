@@ -125,6 +125,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable-validation](https://github.com/zaaack/fable-validation) - A isomorphic validation library for F#/Fable
 * [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
 * [Thoth.Json](https://mangelmaxime.github.io/Thoth/) - Json encoder/decoder library inspire by Elm
+* [fable-material-ui](https://github.com/mvsmal/fable-material-ui) - Fable bindings for [MaterialUI](https://material-ui.com)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
