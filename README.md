@@ -31,7 +31,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Fable website](http://fable.io/samples-browser) - Basic examples in official website.
 * [Fable repo samples](https://github.com/fable-compiler/samples) - Fable's samples repository.
-* [fable-elmish](https://github.com/fable-elmish) - Find web app samples in fable-elmish repository list.
+* [elmish](https://github.com/elmish) - Find web app samples in elmish repository list.
 * [Fable + React Native](https://github.com/fable-compiler/fable-react_native-demo) - Full React Native app using Fable.
 * [Fable + Fuse](https://github.com/alfonsogarciacaro/MyFuseApp) - Simple F# cross-platform mobile app based on [Fuse Tools](https://www.fusetools.com/) quickstart tutorial.
 * [fable-electron](https://github.com/fable-compiler/fable-electron) - Learn how to write a cross-platorm desktop app in F# with Fable and Github Electron.
