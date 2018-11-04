@@ -29,13 +29,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Some good apps written in Fable.*
 
-* [Fable website](http://fable.io/samples-browser) - Basic examples in official website.
-* [Fable repo samples](https://github.com/fable-compiler/samples) - Fable's samples repository.
 * [elmish](https://github.com/elmish) - Find web app samples in elmish repository list.
-* [Fable + React Native](https://github.com/fable-compiler/fable-react_native-demo) - Full React Native app using Fable.
-* [Fable + Fuse](https://github.com/alfonsogarciacaro/MyFuseApp) - Simple F# cross-platform mobile app based on [Fuse Tools](https://www.fusetools.com/) quickstart tutorial.
-* [fable-electron](https://github.com/fable-compiler/fable-electron) - Learn how to write a cross-platorm desktop app in F# with Fable and Github Electron.
-* [fable vscode](https://github.com/acormier/vscode-extension-fable-simple) - Basic Visual Studio Code 'Hello Word!' extension.
 * [SAFE Bookstore](https://github.com/SAFE-Stack/SAFE-BookStore) - Full stack SAFE example with support for deploying in a Docker container.
 * [SAFE-Chat](https://github.com/SAFE-Stack/SAFE-Chat) - IRC-style chat demo featuring full-stack F#, Akka.Streams, Akkling, Fable, Elmish, Websockets and .NET Core.
 * [SAFE Nightwatch](https://github.com/SAFE-Stack/SAFE-Nightwatch) - A Demo application for React Native development in F# using Fable and the SAFE stack.
@@ -84,6 +78,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Watch great talks about Fable*
 
 * [Official Fable youtube channel](https://www.youtube.com/channel/UC6m70Jyr65ogDySbK7aMmzg)
+    * [FableConf 2018 videos playlist](https://www.youtube.com/watch?v=Ry4qQxU0380&list=PL4vOF1DmOhsmzsCd1ghrey7sASjOngnOt) - All FableConf 2018 videos
     * [FableConf 2017 videos playlist](https://www.youtube.com/watch?v=ssKX7T3lNvw&list=PL4vOF1DmOhsl8mXF8NkR_rgkVJP2nR4Mh) - All FableConf 2017 videos
     * [Fable conference talks videos playlist](https://www.youtube.com/watch?v=iP-50fj06Eo&list=PL4vOF1DmOhsnIq6db_j3jv29HoatR4G-Q) - Other Fable talks on Youtube
 * [Conquer the JavaScript Ecosystem with F# and Fable](https://skillsmatter.com/skillscasts/9732-conquer-the-javascript-ecosystem-with-f-sharp-and-fable-audience-level-beginner) - A gentle introduction of Fable from creator _Alfonso Garcia-Caro_
@@ -147,11 +142,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 **[:arrow_up: back to top](#table-of-contents)**
 
 
-## Editor plugins
+## Editors
 
-*Tools to support Fable in code editors.*
+*Editors to code with F#.*
 
-* [ionide][ionide] - A wonderful Plugin for F# language.
+* [Ionide][ionide] - A wonderful Visual Studio Code extension for F# language.
+* [Visual Studio](https://visualstudio.microsoft.com/)
+* [JetBrains Rider](https://www.jetbrains.com/rider/)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -162,11 +159,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Elmish templates](https://github.com/fable-elmish/templates) - Templates to kick start a new Emish application.
   Install them like `dotnet new -i "Fable.Template.Elmish.React::*"` and create a project with `dotnet new fable-elmish-react -n myproject`
-* [Fable Suave](https://github.com/fable-compiler/fable-suave-scaffold) - Scaffold to start an _isomorphic_ F# web app using Suave in the backend and Fable in the frontend, with canopy tests, best practices, etc.
-* [GameDevelopment Scaffold](https://github.com/realvictorprm/fable-game-scaffold) - Template to kick start a new dummy game. Based on the Fable Suave scaffold for Client <> Server support 
-* [Fable.Library.Template](https://github.com/TheAngryByrd/Fable.Library.Template) - F# Template for create and publishing Fable Libraries
 * [SAFE template](https://github.com/SAFE-Stack/SAFE-template) - Dotnet CLI template to bootstrap [SAFE](https://safe-stack.github.io/) projects, including [Suave.IO](https://suave.io/) on server side
 * [Fulma minimal template](https://mangelmaxime.github.io/Fulma/#template) - The quickest way to get started an Elmish + Fulma application from scratch
+* [Fable.Library.Template](https://github.com/TheAngryByrd/Fable.Library.Template) - F# Template for create and publishing Fable Libraries
 
 **[:arrow_up: back to top](#table-of-contents)**
 
