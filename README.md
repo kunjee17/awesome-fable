@@ -158,7 +158,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Fable templates to get up and running*
 
-* [Elmish templates](https://github.com/fable-elmish/templates) - Templates to kick start a new Emish application.
+* [Elmish templates](https://github.com/fable-elmish/templates) - Templates to kick start a new Elmish application.
   Install them like `dotnet new -i "Fable.Template.Elmish.React::*"` and create a project with `dotnet new fable-elmish-react -n myproject`
 * [SAFE template](https://github.com/SAFE-Stack/SAFE-template) - Dotnet CLI template to bootstrap [SAFE](https://safe-stack.github.io/) projects, including [Suave.IO](https://suave.io/) on server side
 * [Fulma minimal template](https://mangelmaxime.github.io/Fulma/#template) - The quickest way to get started an Elmish + Fulma application from scratch
