@@ -41,6 +41,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Volca FM editor](https://magicmonty.github.io/volca-fm-editor) - A Patch editor for the Korg Volca FM made with Fable-Elmish-React which uses Web MIDI
 * [fable-webmidi-sample](https://github.com/magicmonty/fable-webmidi-sample) - A simple sample for making a Web MIDI application with fable
 * [fable-uploadcare](https://whitetigle.github.io/fable-uploadcare/) - A simple React sample to use [UploadCare](https://uploadcare.com) widget
+* [bulma-timepicker](https://github.com/rfrerebe/fable2-samples/tree/master/minimal) - A simple timepicker using Bulma in an F# React component + how to use this React component in Elmish.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
