@@ -139,6 +139,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [ts2fable](https://github.com/fable-compiler/ts2fable) - Fable parser for Typescript declaration files
 * [Online REPL](http://fable.io/repl) - The Fable Online REPL
 * [HTML to Elmish](https://mangelmaxime.github.io/html-to-elmish/) - Convert HTML snippets into code ready to be used in Elmish apps
+* [JSON to Thoth](https://nojaf.com/redhood/) - Convert JSON to F# code with Thoth decoders.
 
 
 **[:arrow_up: back to top](#table-of-contents)**
