@@ -98,13 +98,15 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elmish](https://elmish.github.io/elmish/) - Elm-like abstractions for F# apps
 * [Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 * [Fable.PowerPack](https://github.com/fable-compiler/fable-powerpack) - Utilities for Fable apps
-* [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting) - Typed Client-Server communication for Fable and Suave
+* [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting) - Typed RPC client-server communication for Fable and .NET
 * [Fable.Aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
 * [Fable.Mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
+* [Fable.Mocha](https://github.com/Zaid-Ajaj/Fable.Mocha) - Fable testing library with mocha. Works in browser without any dependency.
 * [Fable.Jest](https://github.com/jgrund/fable-jest) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
 * [Fable.Ava](https://github.com/YoloDev/Fable.Ava) - Testing Fable apps with [Ava](https://github.com/avajs/ava)
 * [Elmish.SweetAlert](https://github.com/Zaid-Ajaj/Elmish.SweetAlert) - [sweetalert2](https://sweetalert2.github.io/) integration in Fable, implmeneted as Elmish commands, see [live docs](https://zaid-ajaj.github.io/Elmish.SweetAlert/).
 * [Elmish.Toastr](https://github.com/Zaid-Ajaj/Elmish.Toastr) - [Toastr](https://github.com/CodeSeven/toastr) (notification library) integration with Fable, implemented as Elmish commands
+* [Elmish.AnimatedTree](https://github.com/Zaid-Ajaj/Elmish.AnimatedTree) - A tree component built on top of react-animated-tree ready to use from Elmish applications.
 * [Fable.SqlClient](https://github.com/Zaid-Ajaj/Fable.SqlClient) - Fable Node client for Microsoft SQL Server, built around a node-mssql binding
 * [Fable.React.Flatpickr](https://zaid-ajaj.github.io/Fable.React.Flatpickr/) - Fable binding for [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) (datetime picker component) that is ready to use within Elmish applications
 * [Fable.Parsimmon](https://github.com/Zaid-Ajaj/Fable.Parsimmon) - Fable bindings for the [Parsimmon](https://github.com/jneen/parsimmon) parser combinator library.
