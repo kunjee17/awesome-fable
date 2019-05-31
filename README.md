@@ -126,9 +126,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
 * [Thoth.Json](https://mangelmaxime.github.io/Thoth/) - Json encoder/decoder library inspire by Elm
 * [fable-material-ui](https://github.com/mvsmal/fable-material-ui) - Fable bindings for [MaterialUI](https://material-ui.com)
-* [Reaction](https://github.com/dbrattli/Reaction) - Async Reactive (Rx) for F# and Fable
-* [Fable Reaction](https://github.com/dbrattli/Fable.Reaction) - Extends Elmish with reactive ([Reaction](https://github.com/dbrattli/Reaction)) query capabilities
 * [Fable Linq](https://github.com/bigteech/fable-linq) - QueryBuilder for Fable
+* [FSharp.Control.AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html) - Async Reactive (Rx) for F# and Fable
+* [Elmish.Streams](http://elmish-streams.rtfd.io/) - Extends Elmish with reactive ([AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
+
 **[:arrow_up: back to top](#table-of-contents)**
 
 
