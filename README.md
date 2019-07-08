@@ -99,6 +99,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elmish.Bridge](https://github.com/Nhowka/Elmish.Bridge) - Create client-server Fable-Elmish apps keeping a single mindset
 * [Fable.Fetch](https://github.com/fable-compiler/fable-fetch) - Fable bindings for Browsers' Fetch API.
 * [Fable.Promise](https://github.com/fable-compiler/fable-promise) - Fable bindings for JS promise.
+* [Fable.Date](https://github.com/fable-compiler/fable-date) - Fable bindings for working with Dates.
 * [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting) - Typed RPC client-server communication for Fable and .NET
 * [Fable.Aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
 * [Fable.Mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
