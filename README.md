@@ -130,6 +130,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Thoth.Json](https://mangelmaxime.github.io/Thoth/) - Json encoder/decoder library inspire by Elm
 * [fable-material-ui](https://github.com/mvsmal/fable-material-ui) - Fable bindings for [MaterialUI](https://material-ui.com)
 * [Fable Linq](https://github.com/bigteech/fable-linq) - QueryBuilder for Fable
+* [Fable Cyclsfs](https://github.com/bigteech/cyclefs) - A Cycle-like Fable library for build reactive webapp
 * [FSharp.Control.AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html) - Async Reactive (Rx) for F# and Fable
 * [Elmish.Streams](http://elmish-streams.rtfd.io/) - Extends Elmish with reactive ([AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
 
