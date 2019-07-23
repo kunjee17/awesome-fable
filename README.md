@@ -133,6 +133,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable Cyclsfs](https://github.com/bigteech/cyclefs) - A Cycle-like Fable library for build reactive webapp
 * [FSharp.Control.AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html) - Async Reactive (Rx) for F# and Fable
 * [Elmish.Streams](http://elmish-streams.rtfd.io/) - Extends Elmish with reactive ([AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
+* [Fable.Reactstrap](https://nojaf.github.io/fable-reactstrap/) - Fable bindings for [reactstrap](https://reactstrap.github.io/).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
