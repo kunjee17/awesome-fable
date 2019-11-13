@@ -134,6 +134,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [FSharp.Control.AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html) - Async Reactive (Rx) for F# and Fable
 * [Elmish.Streams](http://elmish-streams.rtfd.io/) - Extends Elmish with reactive ([AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
 * [Fable.Reactstrap](https://nojaf.github.io/fable-reactstrap/) - Fable bindings for [reactstrap](https://reactstrap.github.io/).
+* [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the base React DSL and a collection of high-quality components used to build React applications, optimized for happiness.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
