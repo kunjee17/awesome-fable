@@ -71,6 +71,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Create WebComponents with Fable + Elmish + React](http://hardt.software/building-a-webcomponent-with-fable-elmish-react/) - How to create WebComponents with Fable + Elmish + React
 * [Even more interop with Fable](https://medium.com/@whitetigle/even-more-interop-with-fable-7afb0e8db5b4) - How to use Bcrypt Js library with Fable - Dec 2018
 * [Fable interop 101 : generate-password](https://medium.com/@whitetigle/fable-interop-101-generate-password-8ee21f56978e) - How to use generate-password Js library with Fable - Jan 2019
+* [Getting Started with Elmish](https://thesharperdev.com/getting-started-with-elmish/) - Walking through Elmish Counter app and explaining the MVU architecture.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
