@@ -176,6 +176,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fulma minimal template](https://mangelmaxime.github.io/Fulma/#template) - The quickest way to get started an Elmish + Fulma application from scratch
 * [Fable.Library.Template](https://github.com/TheAngryByrd/Fable.Library.Template) - F# Template for create and publishing Fable Libraries
 * [Semuserable.Fable.Templates](https://github.com/semuserable/Semuserable.Fable.Templates) - Minimal Fable templates
+
 **[:arrow_up: back to top](#table-of-contents)**
 
 
