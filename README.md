@@ -173,7 +173,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 
 ## Old (working only before Fable3)
+* [Fable.Jest](https://github.com/jgrund/fable-jest) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
 * [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR	
+* [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Archived - Fable bindings for WS
 * [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react	
 * [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
 * [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
