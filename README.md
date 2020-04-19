@@ -137,11 +137,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Tools around Fable platform.*
 
 * [fable-loader](https://www.npmjs.com/package/fable-loader) - Fable loader for Webpack
-* [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
 * [ts2fable](https://github.com/fable-compiler/ts2fable) - Fable parser for Typescript declaration files
 * [Online REPL](http://fable.io/repl) - The Fable Online REPL
 * [HTML to Elmish](https://mangelmaxime.github.io/html-to-elmish/) - Convert HTML snippets into code ready to be used in Elmish apps
-* [JSON to Thoth](https://nojaf.com/redhood/) - Convert JSON to F# code with Thoth decoders.
+* [JSON to Thoth](https://github.com/nojaf/jason-to-thoth) - Convert JSON to F# code with Thoth decoders.
 * [Femto](https://github.com/Zaid-Ajaj/Femto) - Femto is a CLI tool that automatically resolves npm packages used by Fable bindings
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -179,6 +178,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react	
 * [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
 * [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
+* [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
 
 **[:arrow_up: back to top](#table-of-contents)**
 
