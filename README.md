@@ -106,7 +106,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
 * [Fable.Mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
 * [Fable.Mocha](https://github.com/Zaid-Ajaj/Fable.Mocha) - Fable testing library with mocha. Works in browser without any dependency.
-* [Fable.Jest](https://github.com/jgrund/fable-jest) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
+* [Fable.Jester](https://github.com/Shmew/Fable.Jester) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
 * [Fable.Ava](https://github.com/YoloDev/Fable.Ava) - Testing Fable apps with [Ava](https://github.com/avajs/ava)
 * [Elmish.SweetAlert](https://github.com/Zaid-Ajaj/Elmish.SweetAlert) - [sweetalert2](https://sweetalert2.github.io/) integration in Fable, implmeneted as Elmish commands, see [live docs](https://zaid-ajaj.github.io/Elmish.SweetAlert/).
 * [Elmish.Toastr](https://github.com/Zaid-Ajaj/Elmish.Toastr) - [Toastr](https://github.com/CodeSeven/toastr) (notification library) integration with Fable, implemented as Elmish commands
@@ -117,39 +117,30 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.SimpleJson](https://github.com/Zaid-Ajaj/Fable.SimpleJson) A library for easily working with JSON in Fable projects.
 * [Fable.SimpleXml](https://github.com/Zaid-Ajaj/Fable.SimpleXml) A library for easily working with XML in Fable projects.
 * [Fable.DateFunctions](https://github.com/Zaid-Ajaj/Fable.DateFunctions) - binding for the [date-fns](https://date-fns.org/) library, implemented as 120+ extension methods for DateTime.
-* [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR
-* [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Fable bindings for WS
-* [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react
-* [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
 * [fable-moment-range](https://github.com/DmitryBatalov/fable-import-moment-range) - Fable bindings for momentjs range
 * [fable-react-grid-system](https://github.com/Prolucid/fable-react-grid-system) - Fable bindings for React Grid System
-* [Fulma](https://mangelmaxime.github.io/Fulma/#fulma) - Fable-React like DSL for Bulma
-* [Fulma.Extensions](https://mangelmaxime.github.io/Fulma/#fulma-extensions) - Fable-React like DSL for Bulma extensions
-* [Fulma.Elmish](https://github.com/MangelMaxime/Fulma/#fulma-elmish) - Ready to use *elmish components*
+* [Fulma](https://fulma.github.io/Fulma/) - Fable-React like DSL for Bulma + Bulma extension
+* [Fulma.Elmish](https://fulma.github.io/Fulma/#fulma-elmish) - Ready to use *elmish components*
 * [fable-validation](https://github.com/zaaack/fable-validation) - A isomorphic validation library for F#/Fable
-* [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
 * [Thoth.Json](https://mangelmaxime.github.io/Thoth/) - Json encoder/decoder library inspire by Elm
 * [fable-material-ui](https://github.com/mvsmal/fable-material-ui) - Fable bindings for [MaterialUI](https://material-ui.com)
 * [Fable Linq](https://github.com/bigteech/fable-linq) - QueryBuilder for Fable
 * [Fable Cyclsfs](https://github.com/bigteech/cyclefs) - A Cycle-like Fable library for build reactive webapp
-* [FSharp.Control.AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html) - Async Reactive (Rx) for F# and Fable
-* [Elmish.Streams](http://elmish-streams.rtfd.io/) - Extends Elmish with reactive ([AsyncRx](https://elmish-streams.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
+* [Fable.Reaction](https://fablereaction.readthedocs.io/en/latest/) - Extends Elmish with reactive ([AsyncRx](https://fablereaction.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
 * [Fable.Reactstrap](https://nojaf.github.io/fable-reactstrap/) - Fable bindings for [reactstrap](https://reactstrap.github.io/).
 * [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the base React DSL and a collection of high-quality components used to build React applications, optimized for happiness.
 
 **[:arrow_up: back to top](#table-of-contents)**
-
 
 ## Tools
 
 *Tools around Fable platform.*
 
 * [fable-loader](https://www.npmjs.com/package/fable-loader) - Fable loader for Webpack
-* [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
 * [ts2fable](https://github.com/fable-compiler/ts2fable) - Fable parser for Typescript declaration files
 * [Online REPL](http://fable.io/repl) - The Fable Online REPL
 * [HTML to Elmish](https://mangelmaxime.github.io/html-to-elmish/) - Convert HTML snippets into code ready to be used in Elmish apps
-* [JSON to Thoth](https://nojaf.com/redhood/) - Convert JSON to F# code with Thoth decoders.
+* [JSON to Thoth](https://github.com/nojaf/jason-to-thoth) - Convert JSON to F# code with Thoth decoders.
 * [Femto](https://github.com/Zaid-Ajaj/Femto) - Femto is a CLI tool that automatically resolves npm packages used by Fable bindings
 
 **[:arrow_up: back to top](#table-of-contents)**
@@ -176,6 +167,18 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fulma minimal template](https://fulma.github.io/Fulma/#template) - The quickest way to get started an Elmish + Fulma application from scratch
 * [Fable.Library.Template](https://github.com/TheAngryByrd/Fable.Library.Template) - F# Template for create and publishing Fable Libraries
 * [Semuserable.Fable.Templates](https://github.com/semuserable/Semuserable.Fable.Templates) - Minimal Fable templates
+
+**[:arrow_up: back to top](#table-of-contents)**
+
+
+## Old (working only before Fable3)
+* [Fable.Jest](https://github.com/jgrund/fable-jest) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
+* [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR	
+* [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Archived - Fable bindings for WS
+* [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react	
+* [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
+* [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
+* [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
 
 **[:arrow_up: back to top](#table-of-contents)**
 
