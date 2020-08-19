@@ -128,6 +128,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Reaction](https://fablereaction.readthedocs.io/en/latest/) - Extends Elmish with reactive ([AsyncRx](https://fablereaction.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
 * [Fable.Reactstrap](https://nojaf.github.io/fable-reactstrap/) - Fable bindings for [reactstrap](https://reactstrap.github.io/).
 * [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the base React DSL and a collection of high-quality components used to build React applications, optimized for happiness.
+* [Fable.GroupingPanel](https://github.com/JordanMarr/Fable.GroupingPanel) - A computation expression for grouping data into collapsible panels.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
