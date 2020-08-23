@@ -129,6 +129,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Reactstrap](https://nojaf.github.io/fable-reactstrap/) - Fable bindings for [reactstrap](https://reactstrap.github.io/).
 * [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the base React DSL and a collection of high-quality components used to build React applications, optimized for happiness.
 * [Fable.GroupingPanel](https://github.com/JordanMarr/Fable.GroupingPanel) - A computation expression for grouping data into collapsible panels.
+* [Fable.AntD](https://github.com/uxsoft/Fable.AntD) - Ant Design bindings for Fable
+* [Fable.MomentJs](https://github.com/uxsoft/Fable.AntD) - packaged MomentJs bindings by [Prolucid](https://github.com/Prolucid/fable-import-momentjs) 
 
 **[:arrow_up: back to top](#table-of-contents)**
 
