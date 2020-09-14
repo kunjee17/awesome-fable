@@ -71,6 +71,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Even more interop with Fable](https://medium.com/@whitetigle/even-more-interop-with-fable-7afb0e8db5b4) - How to use Bcrypt Js library with Fable - Dec 2018
 * [Fable interop 101 : generate-password](https://medium.com/@whitetigle/fable-interop-101-generate-password-8ee21f56978e) - How to use generate-password Js library with Fable - Jan 2019
 * [Getting Started with Elmish](https://thesharperdev.com/getting-started-with-elmish/) - Walking through Elmish Counter app and explaining the MVU architecture.
+* [Starting with Fable (F#)](https://itnext.io/starting-with-fable-f-83846ab790ad) - From scratch, no React, no Elmish, no Paket. Interop with DOM, p5.js explained. Also published on [dev.to](https://dev.to/semuserable/starting-with-fable-f-kbi).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
