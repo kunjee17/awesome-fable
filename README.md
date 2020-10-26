@@ -104,6 +104,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Promise](https://github.com/fable-compiler/fable-promise) - Fable bindings for JS promise.
 * [Fable.Date](https://github.com/fable-compiler/fable-date) - Fable bindings for working with Dates.
 * [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting) - Typed RPC client-server communication for Fable and .NET
+* [Fable.SignalR](https://github.com/Shmew/Fable.SignalR) - A functional type-safe wrapper for SignalR and Fable.
+* [Fable.Extras](https://github.com/Shmew/Fable.Extras) - A more functional construct on-top of Fable.Core.
 * [Fable.Aether](https://github.com/Prolucid/fable-aether) - Optics library build for Fable
 * [Fable.Mqtt](https://github.com/Prolucid/fable-mqtt) - Fable bindings for MqttJS
 * [Fable.Mocha](https://github.com/Zaid-Ajaj/Fable.Mocha) - Fable testing library with mocha. Works in browser without any dependency.
@@ -130,6 +132,24 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.Reaction](https://fablereaction.readthedocs.io/en/latest/) - Extends Elmish with reactive ([AsyncRx](https://fablereaction.readthedocs.io/en/latest/asyncrx/index.html)) query capabilities
 * [Fable.Reactstrap](https://nojaf.github.io/fable-reactstrap/) - Fable bindings for [reactstrap](https://reactstrap.github.io/).
 * [Feliz](https://github.com/Zaid-Ajaj/Feliz) - A fresh retake of the base React DSL and a collection of high-quality components used to build React applications, optimized for happiness.
+* [Feliz.Bulma](https://github.com/Dzoukr/Feliz.Bulma) - [Bulma UI](bulma.io) wrapper for the amazing Feliz DSL.
+* [Feliz.Delay](https://github.com/Zaid-Ajaj/Feliz) - Adds easy to use delayed rendering.
+* [Feliz.MaterialUI](https://github.com/Shmew/Feliz.Plotly) - Feliz-style Fable bindings for Material-UI.
+* [Feliz.MaterialUI.MaterialTable](https://github.com/Shmew/Feliz.MaterialUI.MaterialTable) - Fable bindings written in the Feliz-style for `material-table`.
+* [Feliz.MaterialUI.Pickers](https://github.com/Shmew/Feliz.MaterialUI.Pickers) - Fable bindings written in the Feliz-style for `material-ui-pickers`.
+* [Feliz.PigeonMaps](https://github.com/Zaid-Ajaj/Feliz) - `pigeon-maps` bindings based on the Feliz API.
+* [Feliz.Plotly](https://github.com/Shmew/Feliz.Plotly) - Fable bindings written in the Feliz-style for plotly.js.
+* [Feliz.Popover](https://github.com/Zaid-Ajaj/Feliz) - `react-popover` bindings based on the Feliz API.
+* [Feliz.Recharts](https://github.com/Zaid-Ajaj/Feliz) - `Recharts` bindings based on the Feliz API.
+* [Feliz.Recoil](https://github.com/Shmew/Feliz.Recoil) - Fable bindings in Feliz style for Facebook's experimental state management library recoil.
+* [Feliz.RoughViz](https://github.com/Zaid-Ajaj/Feliz) - Feliz binding for the `rough-viz` library.
+* [Feliz.Router](https://github.com/Zaid-Ajaj/Feliz.Router) - An Elmish router that is focused, powerful and extremely easy to use.
+* [Feliz.SweetAlert](https://github.com/Shmew/Feliz.SweetAlert) - Fable bindings written in the Feliz-style for sweetalert2.
+* [Feliz.UseDeferred](https://github.com/Zaid-Ajaj/Feliz) - Hooks for dead-simple data fetching with Feliz.
+* [Feliz.UseElmish](https://github.com/Zaid-Ajaj/Feliz) - Hooks to build Elmish components as React components.
+* [Feliz.UseListener](https://github.com/Shmew/Feliz.UseListener) - React hooks for easy event listener management.
+* [Feliz.UseMediaQuery](https://github.com/Zaid-Ajaj/Feliz) - Hooks to build responsive websites.
+* [Feliz.UseWorker](https://github.com/Shmew/Feliz.UseWorker) - Web workers in Fable made easy, exposed as React hooks and Elmish commands.
 * [Fable.GroupingPanel](https://github.com/JordanMarr/Fable.GroupingPanel) - A computation expression for grouping data into collapsible panels.
 * [Fable.AntD](https://github.com/uxsoft/Fable.AntD) - Ant Design bindings for Fable
 * [Fable.MomentJs](https://github.com/uxsoft/Fable.MomentJs) - packaged MomentJs bindings by [Prolucid](https://github.com/Prolucid/fable-import-momentjs) 
