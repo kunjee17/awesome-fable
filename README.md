@@ -116,6 +116,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elmish.AnimatedTree](https://github.com/Zaid-Ajaj/Elmish.AnimatedTree) - A tree component built on top of react-animated-tree ready to use from Elmish applications.
 * [Fable.SqlClient](https://github.com/Zaid-Ajaj/Fable.SqlClient) - Fable Node client for Microsoft SQL Server, built around a node-mssql binding
 * [Fable.React.Flatpickr](https://zaid-ajaj.github.io/Fable.React.Flatpickr/) - Fable binding for [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) (datetime picker component) that is ready to use within Elmish applications
+* [Fable.ReactAgGrid](https://github.com/DanpowerGruppe/Fable.ReactAgGrid) - Fable Binding for [ReactAgGrid](https://www.ag-grid.com/react-grid/)
 * [Fable.Parsimmon](https://github.com/Zaid-Ajaj/Fable.Parsimmon) - Fable bindings for the [Parsimmon](https://github.com/jneen/parsimmon) parser combinator library.
 * [Fable.SimpleJson](https://github.com/Zaid-Ajaj/Fable.SimpleJson) A library for easily working with JSON in Fable projects.
 * [Fable.SimpleXml](https://github.com/Zaid-Ajaj/Fable.SimpleXml) A library for easily working with XML in Fable projects.
