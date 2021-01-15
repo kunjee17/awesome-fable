@@ -153,6 +153,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.GroupingPanel](https://github.com/JordanMarr/Fable.GroupingPanel) - A computation expression for grouping data into collapsible panels.
 * [Fable.AntD](https://github.com/uxsoft/Fable.AntD) - Ant Design bindings for Fable
 * [Fable.MomentJs](https://github.com/uxsoft/Fable.MomentJs) - packaged MomentJs bindings by [Prolucid](https://github.com/Prolucid/fable-import-momentjs)
+* [Fss](https://github.com/Bjorn-Strom/FSS) - Type-safe CSS styling library.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
