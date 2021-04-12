@@ -86,7 +86,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     * [FableConf 2017 videos playlist](https://www.youtube.com/watch?v=ssKX7T3lNvw&list=PL4vOF1DmOhsl8mXF8NkR_rgkVJP2nR4Mh) - All FableConf 2017 videos
     * [Fable conference talks videos playlist](https://www.youtube.com/watch?v=iP-50fj06Eo&list=PL4vOF1DmOhsnIq6db_j3jv29HoatR4G-Q) - Other Fable talks on Youtube
 * [Conquer the JavaScript Ecosystem with F# and Fable](https://skillsmatter.com/skillscasts/9732-conquer-the-javascript-ecosystem-with-f-sharp-and-fable-audience-level-beginner) - A gentle introduction of Fable from creator _Alfonso Garcia-Caro_
-* [WTF# is Fable?](https://wtfsharp.net/wtf-is-fable) - An overview of the Fable ecosystem on the [WTF#](https://wtfsharp.net) podcast.
 * [From F# to JavaScript and beyond with Fable](https://hanselminutes.com/616/from-f-to-javascript-and-beyond-with-fable-and-alfonso-garcia-caro) - with Alfonso Garcia-Caro on Scott Hanselman's "[Hanselminutes][Hanselminutes]" podcast
 * [F# and the SAFE stack](https://hanselminutes.com/624/f-and-the-functional-safe-stack-with-krzysztof-cielak) - with Krzysztof Cieślak on Scott Hanselman's "[Hanselminutes][Hanselminutes]" podcast
 * [Introduction to Web-Development with F# and Fable](https://www.youtube.com/watch?v=yjODmfGWmvw) - [@zaid-ajaj](https://github.com/Zaid-Ajaj) and [@rommsen](https://github.com/rommsen) will talk about what Fable is, why it is an awesome tool to use for web development in 2019 and how you can start using it today.
@@ -116,6 +115,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elmish.AnimatedTree](https://github.com/Zaid-Ajaj/Elmish.AnimatedTree) - A tree component built on top of react-animated-tree ready to use from Elmish applications.
 * [Fable.SqlClient](https://github.com/Zaid-Ajaj/Fable.SqlClient) - Fable Node client for Microsoft SQL Server, built around a node-mssql binding
 * [Fable.React.Flatpickr](https://zaid-ajaj.github.io/Fable.React.Flatpickr/) - Fable binding for [react-flatpickr](https://github.com/coderhaoxin/react-flatpickr) (datetime picker component) that is ready to use within Elmish applications
+* [Fable.ReactAgGrid](https://github.com/DanpowerGruppe/Fable.ReactAgGrid) - Fable Binding for [ReactAgGrid](https://www.ag-grid.com/react-grid/)
 * [Fable.Parsimmon](https://github.com/Zaid-Ajaj/Fable.Parsimmon) - Fable bindings for the [Parsimmon](https://github.com/jneen/parsimmon) parser combinator library.
 * [Fable.SimpleJson](https://github.com/Zaid-Ajaj/Fable.SimpleJson) A library for easily working with JSON in Fable projects.
 * [Fable.SimpleXml](https://github.com/Zaid-Ajaj/Fable.SimpleXml) A library for easily working with XML in Fable projects.
@@ -152,7 +152,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Feliz.UseWorker](https://github.com/Shmew/Feliz.UseWorker) - Web workers in Fable made easy, exposed as React hooks and Elmish commands.
 * [Fable.GroupingPanel](https://github.com/JordanMarr/Fable.GroupingPanel) - A computation expression for grouping data into collapsible panels.
 * [Fable.AntD](https://github.com/uxsoft/Fable.AntD) - Ant Design bindings for Fable
-* [Fable.MomentJs](https://github.com/uxsoft/Fable.MomentJs) - packaged MomentJs bindings by [Prolucid](https://github.com/Prolucid/fable-import-momentjs) 
+* [Fable.MomentJs](https://github.com/uxsoft/Fable.MomentJs) - packaged MomentJs bindings by [Prolucid](https://github.com/Prolucid/fable-import-momentjs)
+* [Fss](https://github.com/Bjorn-Strom/FSS) - Type-safe CSS styling library.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -197,9 +198,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Old (working only before Fable3)
 * [Fable.Jest](https://github.com/jgrund/fable-jest) - Testing Fable apps with [Jest](https://facebook.github.io/jest/)
-* [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR	
+* [fable-signalr](https://github.com/Prolucid/fable-import-signalr) - Fable bindings for SignalR
 * [fable-websockets](https://github.com/Prolucid/fable-import-ws) - Archived - Fable bindings for WS
-* [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react	
+* [fable-react-toolbox](https://github.com/Prolucid/fable-react-toolbox) - UI components for fable-react
 * [fable-momentjs](https://github.com/Prolucid/fable-import-momentjs) - Fable bindings for momentjs
 * [Fable.Import.WebMIDI](https://github.com/magicmonty/fable-import-webmidi) - Web MIDI bindings for Fable
 * [rollup-plugin-fable](https://www.npmjs.com/package/rollup-plugin-fable) - Fable plugin for Rollup
