@@ -140,6 +140,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Feliz.PigeonMaps](https://github.com/Zaid-Ajaj/Feliz) - `pigeon-maps` bindings based on the Feliz API.
 * [Feliz.Plotly](https://github.com/Shmew/Feliz.Plotly) - Fable bindings written in the Feliz-style for plotly.js.
 * [Feliz.Popover](https://github.com/Zaid-Ajaj/Feliz) - `react-popover` bindings based on the Feliz API.
+* [Feliz.ReactFlow](https://github.com/tforkmann/Feliz.ReactFlow) - `ReactFlow` bindings based on the Feliz API.
 * [Feliz.Recharts](https://github.com/Zaid-Ajaj/Feliz) - `Recharts` bindings based on the Feliz API.
 * [Feliz.Recoil](https://github.com/Shmew/Feliz.Recoil) - Fable bindings in Feliz style for Facebook's experimental state management library recoil.
 * [Feliz.RoughViz](https://github.com/Zaid-Ajaj/Feliz) - Feliz binding for the `rough-viz` library.
