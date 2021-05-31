@@ -42,6 +42,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [fable-uploadcare](https://whitetigle.github.io/fable-uploadcare/) - A simple React sample to use [UploadCare](https://uploadcare.com) widget
 * [bulma-timepicker](https://github.com/rfrerebe/fable2-samples/tree/master/minimal) - A simple timepicker using Bulma in an F# React component + how to use this React component in Elmish.
 * [dexter](https://github.com/rajatsharma/dexter) - A minimal Pokemon search made with Fable, Feliz and Elmish. It demoes React components designed with Typesafe styling.
+* [FSharp React Starter](https://github.com/dam5s/fsharp-react-starter) - A starter application with examples of common architecture and testing patterns.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
