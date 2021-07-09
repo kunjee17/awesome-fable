@@ -43,6 +43,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [bulma-timepicker](https://github.com/rfrerebe/fable2-samples/tree/master/minimal) - A simple timepicker using Bulma in an F# React component + how to use this React component in Elmish.
 * [dexter](https://github.com/rajatsharma/dexter) - A minimal Pokemon search made with Fable, Feliz and Elmish. It demoes React components designed with Typesafe styling.
 * [FSharp React Starter](https://github.com/dam5s/fsharp-react-starter) - A starter application with examples of common architecture and testing patterns.
+* [F# trivia game](https://github.com/aaronpowell/ondotnet-fsharp-complete) - A trivia game written in Fable + F# Azure Functions, deployed to Azure Static Web Apps
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -90,6 +91,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [From F# to JavaScript and beyond with Fable](https://hanselminutes.com/616/from-f-to-javascript-and-beyond-with-fable-and-alfonso-garcia-caro) - with Alfonso Garcia-Caro on Scott Hanselman's "[Hanselminutes][Hanselminutes]" podcast
 * [F# and the SAFE stack](https://hanselminutes.com/624/f-and-the-functional-safe-stack-with-krzysztof-cielak) - with Krzysztof Cieślak on Scott Hanselman's "[Hanselminutes][Hanselminutes]" podcast
 * [Introduction to Web-Development with F# and Fable](https://www.youtube.com/watch?v=yjODmfGWmvw) - [@zaid-ajaj](https://github.com/Zaid-Ajaj) and [@rommsen](https://github.com/rommsen) will talk about what Fable is, why it is an awesome tool to use for web development in 2019 and how you can start using it today.
+* [Fable + Azure Functions + Static Web Apps](https://youtu.be/wBP8k1ZuRmQ) - A session for On .NET Live
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -194,6 +196,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fulma minimal template](https://fulma.github.io/Fulma/#template) - The quickest way to get started an Elmish + Fulma application from scratch
 * [Fable.Library.Template](https://github.com/TheAngryByrd/Fable.Library.Template) - F# Template for create and publishing Fable Libraries
 * [Semuserable.Fable.Templates](https://github.com/semuserable/Semuserable.Fable.Templates) - Minimal Fable templates
+* [Fable for Azure Static Web Apps](https://github.com/aaronpowell/swa-fable-template) - GitHub repo template for Fable + Functions for Azure Static Web Apps
+* [Fable + Feliz for Azure Static Web Apps](https://github.com/aaronpowell/swa-feliz-template) - GitHub repo template for Feliz + Functions for Azure Static Web Apps
+* [Elmish for Azure Static Web Apps](https://github.com/aaronpowell/swa-elmish-template) - GitHub repo template for Elmish + Functions for Azure Static Web Apps
 
 **[:arrow_up: back to top](#table-of-contents)**
 
