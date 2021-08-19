@@ -1,3 +1,5 @@
+### Project is moved to official Fable site. Easiest way to add all awesome fable stuff is go to  https://fable.io/resources.html and click the Edit button. This project is archived now for future reference. Thanks for all the love.
+
 # <img src="http://fsharp.org/img/logo/fsharp256.png" width="26"> Awesome Fable
 
 
