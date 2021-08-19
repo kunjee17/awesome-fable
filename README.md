@@ -160,6 +160,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Fable.AntD](https://github.com/uxsoft/Fable.AntD) - Ant Design bindings for Fable
 * [Fable.MomentJs](https://github.com/uxsoft/Fable.MomentJs) - packaged MomentJs bindings by [Prolucid](https://github.com/Prolucid/fable-import-momentjs)
 * [Fss](https://github.com/Bjorn-Strom/FSS) - Type-safe CSS styling library.
+* [office-fable](https://github.com/Freymaurer/office-fable) - Fable bindings for office-js.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
